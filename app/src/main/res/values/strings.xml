@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Goal achievement tree</string>
+    <string name="goal">Goal</string>
+    <string name="tree">Tree</string>
+    <string name="steps">Steps</string>
+    <string name="your_tree">Your tree</string>
+    <string name="your_goal">Your goal</string>
+    <string name="your_goals">Your goals</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_app">This program is made for educational purposes.</string>
+    <string name="ok">OK</string>
+    <string name="confirm">Confirm</string>
+    <string name="add">Add</string>
+    <string name="you_do_not_have_any_goals">You don`t have any goals</string>
+    <string name="you_have_not_selected_created_any_goals_yet">You haven`t selected/created any goals yet</string>
+    <string name="completed">Сompleted %d/10</string>
+    <string name="you_have_achieved_your_goal_and_grown_a_tree">You have achieved your goal and grown a tree!</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="create_goal">Create goal</string>
+</resources>
