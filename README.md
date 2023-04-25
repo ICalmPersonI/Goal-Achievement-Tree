@@ -1,6 +1,6 @@
 # Goal-Achievement-Tree 
 
-Achieve your goal in 10 steps and grow your tree, which will be a consolidation of the fact that you were able to achieve your goal. All data is stored in a database on your local device. The app was created for educational purposes. The trees in this program are farktal trees with a limited depth of 10.
+Achieve your goal in 10 steps and grow your tree, which will be a consolidation of the fact that you were able to achieve your goal, for each completed step towards the goal, the tree will grow. As a result, the tree will grow as much as possible as you reach your goal. (All data is stored in a database on your local device. The app was created for educational purposes. The trees in this program are farktal trees with a limited depth of 10.)
 
 Screenshots
 ---------------
