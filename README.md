@@ -1,21 +1,20 @@
-# Goal-Achievement-Tree
-The app receives data using the [Open Exchange Rates API](https://openexchangerates.org/). 
+# Goal-Achievement-Tree 
 
 Screenshots
 ---------------
 ### Light Theme
-<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/1.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/2.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/3.png" alt="drawing" width="350"/> 
-<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/4.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/5.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/6.png" alt="drawing" width="350"/> 
+<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/1.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/2.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/3.png" alt="drawing" width="150" height="250"/> 
+<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/4.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/5.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/light/6.png" alt="drawing" width="150" height="250"/> 
 ### Dark Theme
 
-<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/1.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/2.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/3.png" alt="drawing" width="350"/> 
-<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/4.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/5.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/6.png" alt="drawing" width="350"/> 
-<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/7.png" alt="drawing" width="350"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/8.png" alt="drawing" width="350"/><img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/9.png" alt="drawing" width="350"/>
+<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/1.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/2.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/3.png" alt="drawing" width="150" height="250"/> 
+<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/4.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/5.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/6.png" alt="drawing" width="150" height="250"/> 
+<img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/7.png" alt="drawing" width="150" height="250"/> <img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/8.png" alt="drawing" width="150" height="250"/><img src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/screenshots/night/9.png" alt="drawing" width="150" height="250"/>
 
 
 Demo
 ---------------
-<video src="https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/demo/demo.mp4" alt="drawing" width="350"/>
+<video src='https://github.com/ICalmPersonI/Goal-Achievement-Tree/blob/master/demo/demo.mp4' width=180/>
 
 Tech Stack
 ---------------
