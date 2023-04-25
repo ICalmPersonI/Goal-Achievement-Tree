@@ -34,7 +34,7 @@ The tree generation parameters are defined by constants in com/calmperson/goalac
 ```kotlin
     companion object {
         const val ANGLE = 90f // The angle at which the tree begins to grow.
-        const val DEPTH = 11
+        const val DEPTH = 10
         const val MIN_BRANCH_LENGTH_MULTIPLIER = 5
         const val MAX_BRANCH_LENGTH_MULTIPLIER = 20
         const val MIN_DEVIATION = 15 // The minimum possible deviation from the previous angle.
