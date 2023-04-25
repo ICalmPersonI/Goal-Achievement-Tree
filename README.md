@@ -29,3 +29,15 @@ Tech Stack
 - [Material 2](https://m2.material.io)
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - [Hilt](https://dagger.dev/hilt)
+
+The tree generation parameters are defined by constants in com/calmperson/goalachievementtree/model/fractaltree/FractalTreeGenerator.kt.
+```kotlin
+    companion object {
+        const val ANGLE = 90f // The angle at which the tree begins to grow.
+        const val DEPTH = 11
+        const val MIN_BRANCH_LENGTH_MULTIPLIER = 5
+        const val MAX_BRANCH_LENGTH_MULTIPLIER = 20
+        const val MIN_DEVIATION = 15 // The minimum possible deviation from the previous angle.
+        const val MAX_DEVIATION = 30 // The maximum possible deviation from the previous angle.
+    }
+```
