@@ -26,5 +26,5 @@ interface GoalDao {
     suspend fun updateAll(vararg goal: Goal)
 
     @Delete
-    fun delete(goal: Goal)
+    suspend fun delete(goal: Goal)
 }

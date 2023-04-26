@@ -19,7 +19,7 @@ interface FractalTreeDao {
     suspend fun insert(vararg tree: FractalTree)
 
     @Delete
-    fun delete(tree: FractalTree)
+    suspend fun delete(tree: FractalTree)
 
 
 }
