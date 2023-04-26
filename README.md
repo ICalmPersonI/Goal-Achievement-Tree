@@ -18,6 +18,11 @@ Demo
 ---------------
 https://user-images.githubusercontent.com/87424785/234356050-12f9be6b-f29b-49d4-a154-ece964b2837c.mp4
 
+Architecture
+---------------
+![Goal-Achievement-Tree](https://user-images.githubusercontent.com/87424785/234506270-34107e5f-3112-4dfe-95eb-69163cded5ea.png)
+
+
 Tech Stack
 ---------------
 - Minimum SDK level 21
