@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/87424785/234356050-12f9be6b-f29b-49d4-
 
 Architecture
 ---------------
-![Goal-Achievement-Tree](https://user-images.githubusercontent.com/87424785/234506270-34107e5f-3112-4dfe-95eb-69163cded5ea.png)
+![Goal-Achievement-Tree](https://user-images.githubusercontent.com/87424785/236671970-b0cf114d-8a09-4030-a367-609500e1f26e.png)
 
 
 Tech Stack
